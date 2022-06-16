@@ -1,0 +1,17 @@
+* {
+   background-color: lightgreen;
+   margin: 5 px;
+   padding: 5 px;
+
+}
+
+.btn {
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    color: crimson;
+    margin: 35px;
+    padding: 40px;
+
+
+}
